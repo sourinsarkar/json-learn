@@ -1,0 +1,1 @@
+person = {name: "Sourin", age: 21, city: "Jalandhar"};
