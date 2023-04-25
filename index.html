@@ -11,7 +11,9 @@
 
     <script>
         const person = {name: "Sourin", age: 21, city: "Jalandhar"};
-        document.getElementById("demo").innerHTML = person.name;
+        person.age = 23;
+        document.getElementById("demo").innerHTML = person["name"];
+        document.getElementById("demo").innerHTML = person["age"];
     </script>
 </body>
 </html>

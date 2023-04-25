@@ -1,5 +1,9 @@
 {
     "name" : "Sourin",
-    "age" : 21
-    
+    "age" : 21,
+    "about": {
+        "hobby": ["Designing", "Singing", "Basketball"],
+        "subjects": ["Programming", "Web3", "Graphic Designing"]
+    },
+    "date": 9
 }
